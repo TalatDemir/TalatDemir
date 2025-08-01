@@ -8,7 +8,7 @@ A passionate Computer Engineering student with a deep curiosity for discovering 
 
 ### 🚀 About Me
 
-* **Current Status:** Actively studying Computer Engineering.
+* **Current Status:** Actively studying Computer Engineering at **Balıkesir University**. I also had the invaluable opportunity to study at **Politechnika Częstochowska** through the Erasmus+ program.
 * **Hobbies & Interests:** I'm fascinated by Artificial Intelligence, particularly in the field of audio processing. I have a research project and a voice cloning project in this area.
 * **Learning & Growth:** I've worked with a variety of technologies, including **C#**, **Python**, **HTML**, **CSS**, **React**, and **Node.js**. While I don't claim to be an expert in all of them, I am a persistent learner eager to deepen my skills.
 * **Language Skills:** My **native** language is **Turkish**, and I have a **B2** level in **English**, which I'm actively working to improve through a course.I am open to learning other languages. I would be happy to meet people and speak their language.
