@@ -1,3 +1,40 @@
+Türkçe:
+# Merhaba, Ben Talat Demir! 👋
+
+### Bilgisayar Mühendisliği Öğrencisi | Yazılım Geliştirici Adayı
+
+Yeni teknolojileri keşfetmeye ve öğrenmeye derin bir merak duyan tutkulu bir Bilgisayar Mühendisliği öğrencisiyim. Bilginin sınırsız olduğuna inanıyorum, ancak asıl önemli olanın öğrenme arzusu olduğunu biliyorum. Yazılım geliştirme dünyasında anlamlı bir etki yaratmaya adanmış, son derece motive ve açık fikirli bir bireyim.
+
+---
+
+### 🚀 Hakkımda
+
+* **Mevcut Durum:** Aktif olarak **Balıkesir Üniversitesi**'nde Bilgisayar Mühendisliği okuyorum. Ayrıca Erasmus+ programı aracılığıyla **Politechnika Częstochowska**'da eğitim alma fırsatım oldu.
+* **İlgi Alanları:** Yapay Zekaya, özellikle ses işleme alanına hayranım. Bu alanda bir araştırma projem ve ses klonlama projem bulunuyor.
+* **Öğrenme ve Gelişim:** **C#**, **Python**, **HTML**, **CSS**, **React**, **Node.js** ve **Javascript** gibi çeşitli teknolojilerle çalıştım. Hepsinde uzman olduğumu iddia edemesem de, becerilerimi derinleştirmeye istekli, azimli bir öğrenciyim.
+* **Dil Bilgisi:** Anadilim **Türkçe**, ve **B2** seviyesinde **İngilizce** biliyorum. İngilizcemi aktif olarak bir kursla geliştirmekteyim. Yeni diller öğrenmeye açığım. İnsanlarla tanışmaktan ve onların dilini konuşmaktan mutluluk duyarım.
+
+---
+
+### 💡 Projelerim
+
+Bir şeyler inşa etmekten keyif alıyorum ve fikirleri gerçeğe dönüştürme konusunda tutkuluyum. Geçmiş projelerimden bazıları:
+
+* **2D Balon Patlatma Oyunu:** Geliştirme becerilerimi pratik etmek için yaptığım basit ama eğlenceli bir oyun.
+* **Kişisel Portföy Sitesi:** Çalışmalarımı sergilediğim ve yeteneklerim ile projelerime daha detaylı bir genel bakış sağladığım bir site.
+* **Ses Klonlama Projesi:** Yapay zeka dünyasına yönelik keşfim, ses sentezinin zorlu ancak ödüllendirici görevine odaklanıyor.
+
+Bu ve diğer projelerimi GitHub profilimi ziyaret ederek keşfedebilirsiniz.
+
+---
+
+### 📫 İletişime Geçin!
+
+Her zaman yeni fikirlere ve işbirliklerine açığım. Bir projeniz veya bir sorunuz varsa, çekinmeden ulaşabilirsiniz. Yazılım topluluğuna katkıda bulunmaya ve pozitif bir etki yaratmaya adanmış durumdayım.
+
+* **E-posta:** talatalat35@gmail.com | talattt64@hotmail.com
+* **LinkedIn:** [Talat Demir](https://www.linkedin.com/in/talat-demir-93462029a/)
+English :
 # Hi, I'm Talat Demir! 👋
 
 ### Computer Engineering Student | Aspiring Software Developer
