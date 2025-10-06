@@ -34,7 +34,7 @@ Her zaman yeni fikirlere ve işbirliklerine açığım. Bir projeniz veya bir so
 
 * **E-posta:** talatalat35@gmail.com | talattt64@hotmail.com
 * **LinkedIn:** [Talat Demir](https://www.linkedin.com/in/talat-demir-93462029a/)
-## Engilsh
+## English
 # Hi, I'm Talat Demir! 👋
 
 ### Computer Engineering Student | Aspiring Software Developer
